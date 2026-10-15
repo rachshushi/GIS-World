@@ -20,8 +20,7 @@ This repository includes some of the projects and maps I worked on during my und
       <h3> GEOG 356 - 3D GIScience</h3>
       <p>Introduction to 3D spatial data, 3D analysis, and 3D visualization for spatial problems.</p>
       <a href="https://github.com">📂 View Code</a> | 
-      <a href="https://your-live-demo.com">🌐 Live Demo</a>
+      <a href="https://youtu.be/xMJgDCVoMos">🌐 Live Demo</a>
     </td>
   </tr>
 </table>
-
