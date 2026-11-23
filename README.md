@@ -2,7 +2,7 @@
 
 GIS, spatial analysis, and freshwater ecology projects from my undergraduate degree. I'm pursuing a career in environmental consulting.
 
-**Tools:** ArcGIS Pro, QGIS, Python, R *(edit to match what you actually use)*
+**Tools:** ArcGIS Pro, QGIS, Python, R 
 **Contact:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:you@example.com)
 
 ---
