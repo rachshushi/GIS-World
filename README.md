@@ -1,26 +1,30 @@
-# GIS-World
-# Hi, I'm Rachael
-This repository includes some of the projects and maps I worked on during my undergrad.
+# Rachael | GIS & Spatial Analysis Portfolio
+
+GIS, spatial analysis, and freshwater ecology projects from my undergraduate degree. I'm pursuing a career in environmental consulting.
+
+**Tools:** ArcGIS Pro, QGIS, Python, R *(edit to match what you actually use)*
+**Contact:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:you@example.com)
+
+---
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <!-- Project 1 Image -->
-      <img src="images/project1.png" alt="Project 1" width="100%"/>
-      <h3> GEOG 352 - Spatial Analysis</h3>
-      <p>Advanced quantitative techniques for spatial analysis of geographic data and patterns.</p>
-      <a href="https://github.com">📂 View Code</a> | 
-      <a href="https://your-live-demo.com">🌐 Live Demo</a>
-    </td>
-    <td width="50%">
-      <!-- Project 2 Image -->
-      <img src="images/project2.png" alt="Project 2" width="100%"/>
-      <h3> GEOG 356 - 3D GIScience</h3>
-      <p>Introduction to 3D spatial data, 3D analysis, and 3D visualization for spatial problems.</p>
-      <a href="https://github.com">📂 View Code</a> | 
-      <a href="https://youtu.be/xMJgDCVoMos">🌐 Live Demo</a>
-    </td>
-  </tr>
-</table>
+### GEOG 352: Spatial Analysis
+![Map showing [describe what the map shows]](images/project1.png)
+
+**Question:** What spatial pattern or problem did you investigate?
+**Methods:** e.g., hot spot analysis, interpolation, regression
+**Result:** One sentence on what you found.
+
+[View code and map layouts](projects/geog352/) 
+
+---
+
+### GEOG 356: 3D GIScience
+[![Watch the 3D visualization video](images/project2.png)](https://youtu.be/xMJgDCVoMos)
+
+**Question:** What did you model or visualize in 3D?
+**Methods:** e.g., LiDAR processing, 3D scene creation, viewshed analysis
+**Result:** One sentence on the outcome.
+
+[Watch video](https://youtu.be/xMJgDCVoMos) | [View project files](projects/geog356/)
